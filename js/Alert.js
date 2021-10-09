@@ -14,3 +14,4 @@ var li=document.querySelectorAll('li');
 li.forEach(function(element){
     element.onclick=test;
 })
+test();
